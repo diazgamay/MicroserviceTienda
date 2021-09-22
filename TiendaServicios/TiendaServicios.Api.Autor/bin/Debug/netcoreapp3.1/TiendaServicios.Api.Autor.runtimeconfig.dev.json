@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Mayra\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Mayra\\.nuget\\packages"
+    ]
+  }
+}
