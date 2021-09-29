@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NKhgUInTlD3Z0D8laX/LI1kchKBxM3Bt9akdA/QVAVglTuexCi+gCcqyar5t5cUkSel/fNIVo5usR5nA/YwZ+A==",
+  "dgSpecHash": "gW8UNRLyx5Bgfc7SUi54mQvFGhNVScRhGOY0Y8f3mhoNeC1xdbXZLeYcjmOWrEch9gnOSGAjTniRoBev8sg6BQ==",
   "success": true,
-  "projectFilePath": "E:\\Proyectos_Pruebas\\MicroserviceTienda\\MicroserviceTienda\\TiendaServicios\\TiendaSercivicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj",
+  "projectFilePath": "E:\\Proyectos_Pruebas\\MicroserviceTienda\\MicroserviceTienda\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mayra\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
     "C:\\Users\\Mayra\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.1\\automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Proyectos_Pruebas\\MicroserviceTienda\\MicroserviceTienda\\TiendaServicios\\TiendaSercivicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj": {}
+    "E:\\Proyectos_Pruebas\\MicroserviceTienda\\MicroserviceTienda\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj": {}
   },
   "projects": {
-    "E:\\Proyectos_Pruebas\\MicroserviceTienda\\MicroserviceTienda\\TiendaServicios\\TiendaSercivicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj": {
+    "E:\\Proyectos_Pruebas\\MicroserviceTienda\\MicroserviceTienda\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Proyectos_Pruebas\\MicroserviceTienda\\MicroserviceTienda\\TiendaServicios\\TiendaSercivicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj",
+        "projectUniqueName": "E:\\Proyectos_Pruebas\\MicroserviceTienda\\MicroserviceTienda\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj",
         "projectName": "TiendaServicios.Api.CarritoCompra",
-        "projectPath": "E:\\Proyectos_Pruebas\\MicroserviceTienda\\MicroserviceTienda\\TiendaServicios\\TiendaSercivicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj",
+        "projectPath": "E:\\Proyectos_Pruebas\\MicroserviceTienda\\MicroserviceTienda\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj",
         "packagesPath": "C:\\Users\\Mayra\\.nuget\\packages\\",
-        "outputPath": "E:\\Proyectos_Pruebas\\MicroserviceTienda\\MicroserviceTienda\\TiendaServicios\\TiendaSercivicios.Api.CarritoCompra\\obj\\",
+        "outputPath": "E:\\Proyectos_Pruebas\\MicroserviceTienda\\MicroserviceTienda\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mayra\\AppData\\Roaming\\NuGet\\NuGet.Config",
