@@ -28,12 +28,12 @@ namespace TiendaServicios.Api.CarritoCompra.Aplicacion
 
             public async Task<Unit> Handle(Ejecuta request, CancellationToken cancellationToken)
             {
-                var carritoSesion = new CarritoSesion
+                var carritoSesions = new CarritoSesion
                 {
                     FechaCreacion = request.FechaCreacionSesion
                 };
 
-                _contexto.CarritoSesions.Add(carritoSesion);
+                _contexto.CarritoSesions.Add(carritoSesions);
                 var value = await _contexto.SaveChangesAsync();
 
                 if (value == 0)
@@ -41,7 +41,7 @@ namespace TiendaServicios.Api.CarritoCompra.Aplicacion
                     throw new Exception("Error en la insercion del carrito de compras.");
                 }
 
-                int id = carritoSesion.CarritoSesionId;//Se obtiene el Id de la sesion
+                int id = carritoSesions.CarritoSesionId;//Se obtiene el Id de la sesion
 
                 foreach (var obj in request.ProductoLista)
                 {
@@ -52,7 +52,7 @@ namespace TiendaServicios.Api.CarritoCompra.Aplicacion
                         ProductoSelecciondo = obj
                     };
 
-                    _contexto.CarritoSesionDetalle.Add(detalleSesion);
+                    _contexto.CarritoSesionDetalles.Add(detalleSesion);
                 }
 
                 value = await _contexto.SaveChangesAsync();

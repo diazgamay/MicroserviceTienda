@@ -13,6 +13,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using TiendaServicios.Api.CarritoCompra.Aplicacion;
 using TiendaServicios.Api.CarritoCompra.Persistencia;
+using TiendaServicios.Api.CarritoCompra.RemoteInterface;
+using TiendaServicios.Api.CarritoCompra.RemoteService;
 
 namespace TiendaSercivicios.Api.CarritoCompra
 {
@@ -28,14 +30,18 @@ namespace TiendaSercivicios.Api.CarritoCompra
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddScoped<ILibrosServices, LibrosService>();
             services.AddControllers();
-
             services.AddDbContext<CarritoContexto>(options =>
             {
-                options.UseMySQL(Configuration.GetConnectionString("ConexionDatabase"));
+                options.UseMySql(Configuration.GetConnectionString("ConexionDatabase"));
             });
 
             services.AddMediatR(typeof(Nuevo.Manejador).Assembly);
+            services.AddHttpClient("Libros", Config =>
+            {
+                Config.BaseAddress = new Uri(Configuration["Services:Libros"]);
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -58,6 +58,11 @@ E:\Proyectos_Pruebas\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libr
 E:\Proyectos_Pruebas\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.dll
 E:\Proyectos_Pruebas\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.pdb
 E:\Proyectos_Pruebas\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.genruntimeconfig.cache
+E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.deps.json
+E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.runtimeconfig.json
+E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.runtimeconfig.dev.json
+E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\libman.json
+E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.exe
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\appsettings.Development.json
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\appsettings.json
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.exe
@@ -68,9 +73,14 @@ E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\Tiend
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.pdb
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\AutoMapper.dll
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\FluentValidation.dll
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\MediatR.dll
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
@@ -93,9 +103,16 @@ E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\Tiend
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
@@ -104,6 +121,8 @@ E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\Tiend
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.dll
+E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.pdb
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.csproj.AssemblyReference.cache
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.AssemblyInfoInputs.cache
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.AssemblyInfo.cs
@@ -118,3 +137,75 @@ E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\Tiend
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.dll
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.pdb
 E:\Proyectos_Pruebas\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.genruntimeconfig.cache
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.deps.json
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.runtimeconfig.json
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.runtimeconfig.dev.json
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.StaticWebAssets.xml
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.exe
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.StaticWebAssets.xml
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.exe
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.deps.json
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.runtimeconfig.json
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.runtimeconfig.dev.json
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.pdb
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\bin\Debug\netcoreapp3.1\TiendaServicios.Api.CarritoCompra.pdb
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.csproj.AssemblyReference.cache
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.AssemblyInfoInputs.cache
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.AssemblyInfo.cs
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.csproj.CoreCompileInputs.cache
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\netcoreapp3.1\staticwebassets\TiendaServicios.Api.Libro.StaticWebAssets.Manifest.cache
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.RazorTargetAssemblyInfo.cache
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.csproj.CopyComplete
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.dll
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.pdb
+C:\Users\Mayra Diaz\Documents\Proyectos_prueba\MicroserviceTienda\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.genruntimeconfig.cache

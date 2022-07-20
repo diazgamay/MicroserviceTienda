@@ -9,8 +9,11 @@ namespace TiendaServicios.Api.Libro.Persistencia
 {
     public class ContextoLibreria : DbContext
     {
+        public ContextoLibreria() { }
+
         public ContextoLibreria(DbContextOptions<ContextoLibreria> options) : base(options) { }
 
-        public DbSet<LibreriaMaterial> LibreriaMaterial { get; set; }
+        //Se le asigna la propiedad virtual para que permita que el objeto se pueda sobreescribir a futuro
+        public virtual DbSet<LibreriaMaterial> LibreriaMaterial { get; set; }
     }
 }

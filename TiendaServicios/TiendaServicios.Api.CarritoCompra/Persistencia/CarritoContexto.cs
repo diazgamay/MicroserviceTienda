@@ -1,8 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿
+
+using Microsoft.EntityFrameworkCore;
 using TiendaServicios.Api.CarritoCompra.Modelo;
 
 namespace TiendaServicios.Api.CarritoCompra.Persistencia
@@ -13,6 +11,6 @@ namespace TiendaServicios.Api.CarritoCompra.Persistencia
 
         public DbSet<CarritoSesion> CarritoSesions { get; set; }
 
-        public DbSet<CarritoSesionDetalle> CarritoSesionDetalle { get; set; }
+        public DbSet<CarritoSesionDetalle> CarritoSesionDetalles { get; set; }
     }
 }

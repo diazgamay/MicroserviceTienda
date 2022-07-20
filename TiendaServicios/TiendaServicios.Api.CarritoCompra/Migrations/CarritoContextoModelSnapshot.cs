@@ -24,7 +24,7 @@ namespace TiendaServicios.Api.CarritoCompra.Migrations
                         .HasColumnType("int");
 
                     b.Property<DateTime?>("FechaCreacion")
-                        .HasColumnType("datetime");
+                        .HasColumnType("datetime(6)");
 
                     b.HasKey("CarritoSesionId");
 
@@ -41,16 +41,16 @@ namespace TiendaServicios.Api.CarritoCompra.Migrations
                         .HasColumnType("int");
 
                     b.Property<DateTime?>("FechaCreacion")
-                        .HasColumnType("datetime");
+                        .HasColumnType("datetime(6)");
 
                     b.Property<string>("ProductoSelecciondo")
-                        .HasColumnType("text");
+                        .HasColumnType("longtext CHARACTER SET utf8mb4");
 
                     b.HasKey("CarritoSesionDetalleId");
 
                     b.HasIndex("CarritoSesionId");
 
-                    b.ToTable("CarritoSesionDetalle");
+                    b.ToTable("CarritoSesionDetalles");
                 });
 
             modelBuilder.Entity("TiendaServicios.Api.CarritoCompra.Modelo.CarritoSesionDetalle", b =>
